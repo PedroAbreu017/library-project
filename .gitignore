@@ -1,0 +1,16 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Configs e ambientes
+.env
+.vscode/
+.idea/
+*.log
